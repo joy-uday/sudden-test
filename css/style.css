@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+/* custom css starts here */
+
+/* ****************************
+top banner section starts here
+**************************** */
+
+.main-div {
+    background: #E3516E;
+    height: 100vh;
+}
+
+.circle {
+    width: 20%;
+    margin: 0 auto;
+    display: flex;
+    height: 90vh;
+    align-items: center;
+}
+
+.circle-wrapper {}
+
+.circle-common {
+    width: 120px;
+    height: 120px;
+    background: blue;
+}
+
+.circle-1 {
+    background: #51B5A9;
+    border-radius: 124px 0 0 0;
+    float: left;
+}
+
+.circle-2 {
+    background: #FADE8B;
+    border-radius: 0px 124px 0 0;
+    float: left;
+}
+
+.circle-3 {
+    background: #E3516E;
+    border-radius: 0px 0px 0px 124px;
+    display: ;
+}
+.circle-4 {
+    background: #F7F3D7;
+    border-radius: 0px 0px 0px 124px;
+    float: ;
+}
+
+
+
+
+.design-wrap{
+
+    padding-top: 10%;
+}
+.second-div{
+    background: #62306D;
+    height: 100vh;
+}
+.design{
+
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    height: 70vh;
+    align-items: center;
+    width: 80%;
+    border: 2px solid black;
+    padding-top: ;
+}
+.design-wrapper{
+
+    position: relative;
+    width: 38%;
+    margin: 0 auto;
+}
+.design-1{
+
+    left: 0;
+    border-radius: 0 0 100px 100px;
+}
+.design-2{
+
+    left: 145px;
+    border-radius: 100px 100px 0 0;
+    bottom: 0px;
+}
+.design-3{
+
+    left: 290px;
+    border-radius: 0 0 100px 100px;
+}
+.design-0{background: #F7EC7D;width: 145px;height: 200px;float: left;position: absolute;}
+/* ****************************
+top banner section ends here
+**************************** */
+
+/* ****************************
+top banner section starts here
+**************************** */
+
+/* ****************************
+top banner section ends here
+**************************** */
+
+/* ****************************
+top banner section starts here
+**************************** */
+
+/* ****************************
+top banner section ends here
+**************************** */
+
+/* ****************************
+top banner section starts here
+**************************** */
+
+/* ****************************
+top banner section ends here
+**************************** */
+
+/* ****************************
+top banner section starts here
+**************************** */
+
+/* ****************************
+top banner section ends here
+**************************** */
+
+/* ****************************
+top banner section starts here
+**************************** */
+
+/* ****************************
+top banner section ends here
+**************************** */
+
+/* custom css end here */
